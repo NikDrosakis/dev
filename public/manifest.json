@@ -1,0 +1,15 @@
+{
+  "short_name": "Nik Drosakis",
+  "name": "Nik Drosakis - Portfolio",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

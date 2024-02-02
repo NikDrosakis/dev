@@ -1,0 +1,9 @@
+/// <reference types="react" />
+export declare const TimelinePointWrapper: import("styled-components").IStyledComponent<"web", import("styled-components/dist/types").Substitute<import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {
+    $cardLess?: boolean;
+    bg?: string;
+    width?: number;
+}>>;
+export declare const TimelinePointContainer: import("styled-components").IStyledComponent<"web", import("styled-components/dist/types").Substitute<import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, {
+    $hide?: boolean;
+}>>;
