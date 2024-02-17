@@ -1,4 +1,6 @@
-# Dev Portfolio  [![GitHub](https://github.com/NikDrosakis/nikportfolio.git]
+# Dev Portfolio  
+![image](https://github.com/NikDrosakis/dev/assets/5827727/7e3c8be5-0259-4b7f-9e3e-a33df5962625)
+
 
 ## STACK USED
 ⚡️FrontEnd: React
